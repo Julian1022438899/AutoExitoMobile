@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="App Exito Mobile" tests="2" skipped="0" failures="2" errors="0" timestamp="2023-01-18T21:16:07" hostname="CHBOGBDZ6FL3" time="0.367">
+  <properties/>
+  <testcase name="Create a new user" classname="App Exito Mobile" time="0.347">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'that user to enter the exito application' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;that user to enter the exito application&quot;)&#10;public void thatUserToEnterTheExitoApplication() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;he enters the information in the register form&quot;)&#10;public void heEntersTheInformationInTheRegisterForm() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;he verifies the register&quot;)&#10;public void heVerifiesTheRegister() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'that user to enter the exito application' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;that user to enter the exito application&quot;)
+public void thatUserToEnterTheExitoApplication() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;he enters the information in the register form&quot;)
+public void heEntersTheInformationInTheRegisterForm() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;he verifies the register&quot;)
+public void heVerifiesTheRegister() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="Log in and agregate product" classname="App Exito Mobile" time="0.019">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'that user to enter the exito application' and 2 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;that user to enter the exito application&quot;)&#10;public void thatUserToEnterTheExitoApplication() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;log in and I add a product to the shopping cart&quot;)&#10;public void logInAndIAddAProductToTheShoppingCart() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;he verifies that the product was added to the shopping cart&quot;)&#10;public void heVerifiesThatTheProductWasAddedToTheShoppingCart() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'that user to enter the exito application' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;that user to enter the exito application&quot;)
+public void thatUserToEnterTheExitoApplication() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;log in and I add a product to the shopping cart&quot;)
+public void logInAndIAddAProductToTheShoppingCart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;he verifies that the product was added to the shopping cart&quot;)
+public void heVerifiesThatTheProductWasAddedToTheShoppingCart() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/jdortizg/Desktop/Julian/co.com.choucair.certification.exitomobile/src/test/resources/features/exitoMobile.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Create a new user(app-exito-mobile;create-a-new-user)
+--------------------------------------------------------------------------------
+[Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory App Exito Mobile
+[Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory App Exito Mobile
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   ___   _  _   ___    ___   _  _    ___ 
+ |_   _| | __| / __| |_   _|   | _ \ | __| | \| | |   \  |_ _| | \| |  / __|
+   | |   | _|  \__ \   | |     |  _/ | _|  | .` | | |) |  | |  | .` | | (_ |
+   |_|   |___| |___/   |_|     |_|   |___| |_|\_| |___/  |___| |_|\_|  \___|
+
+Create a new user
+-----------------------------------------------------------------------------
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/jdortizg/Desktop/Julian/co.com.choucair.certification.exitomobile/src/test/resources/features/exitoMobile.feature
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   _____     _     ___   _____   ___   ___  
+ |_   _| | __| / __| |_   _|   / __| |_   _|   /_\   | _ \ |_   _| | __| |   \ 
+   | |   | _|  \__ \   | |     \__ \   | |    / _ \  |   /   | |   | _|  | |) |
+   |_|   |___| |___/   |_|     |___/   |_|   /_/ \_\ |_|_\   |_|   |___| |___/ 
+
+Log in and agregate product(app-exito-mobile;log-in-and-agregate-product)
+--------------------------------------------------------------------------------
+[Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory App Exito Mobile
+[Test worker] INFO net.thucydides.core.model.TestOutcome - SetUserStory App Exito Mobile
+[Test worker] INFO  - 
+  _____   ___   ___   _____     ___   ___   _  _   ___    ___   _  _    ___ 
+ |_   _| | __| / __| |_   _|   | _ \ | __| | \| | |   \  |_ _| | \| |  / __|
+   | |   | _|  \__ \   | |     |  _/ | _|  | .` | | |) |  | |  | .` | | (_ |
+   |_|   |___| |___/   |_|     |_|   |___| |_|\_| |___/  |___| |_|\_|  \___|
+
+Log in and agregate product
+-----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
